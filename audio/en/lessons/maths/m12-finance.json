@@ -1,0 +1,893 @@
+{
+ "audio": "m12-finance.mp3",
+ "title": "m12-finance",
+ "duration": 415.39,
+ "sample_rate": 24000,
+ "bitrate": "32k",
+ "loudness_lufs": -16.7,
+ "model": "chatterbox-nano",
+ "voice_id": "2c39a28be7a2",
+ "synthesis": {
+  "wall_seconds": 1784.4,
+  "tts_compute_seconds": 1645.9,
+  "speech_seconds_generated": 437.2,
+  "chunks": 71,
+  "cached_chunks": 31,
+  "retries": 41,
+  "realtime_factor": 0.266,
+  "warnings": [
+   "kept imperfect take (0.17) for: Thandi saves one thousand two hundred rand at the end of each month for four yea",
+   "kept imperfect take (0.13) for: F equals one thousand two hundred open bracket open bracket one comma zero zero ",
+   "kept imperfect take (0.13) for: Total repaid: sixty times five thousand five hundred and sixty-one comma one one",
+   "kept imperfect take (0.12) for: so the interest is about eighty-three thousand six hundred and sixty-six rand an",
+   "kept imperfect take (0.33) for: i equals zero comma one zero five divided by twelve equals zero comma zero zero ",
+   "kept imperfect take (0.22) for: five hundred thousand equals six thousand open bracket one minus open bracket on",
+   "kept imperfect take (1.20) for: So,",
+   "kept imperfect take (0.24) for: open bracket one comma zero zero eight seven five close bracket to the power neg",
+   "kept imperfect take (0.67) for: comma two seven zero eight three.",
+   "kept imperfect take (0.22) for: Finance is fifteen to twenty marks of Paper one.",
+   "kept imperfect take (0.20) for: Forgetting to subtract the deposit before calculating the loan amount."
+  ]
+ },
+ "verses": [
+  {
+   "verse": 1,
+   "start": 0.4,
+   "end": 2.8,
+   "text": "Annuities & outstanding balance.",
+   "segments": [
+    {
+     "start": 0.4,
+     "end": 2.8,
+     "text": "Annuities and outstanding balance."
+    }
+   ],
+   "spoken": "Annuities and outstanding balance."
+  },
+  {
+   "verse": 2,
+   "start": 3.5,
+   "end": 5.54,
+   "text": "In this lesson you will learn to:",
+   "segments": [
+    {
+     "start": 3.5,
+     "end": 5.54,
+     "text": "In this lesson you will learn to:"
+    }
+   ],
+   "spoken": "In this lesson you will learn to:"
+  },
+  {
+   "verse": 3,
+   "start": 6.24,
+   "end": 11.22,
+   "text": "Use the future value annuity formula for savings plans and sinking funds.",
+   "segments": [
+    {
+     "start": 6.24,
+     "end": 11.22,
+     "text": "Use the future value annuity formula for savings plans and sinking funds."
+    }
+   ],
+   "spoken": "Use the future value annuity formula for savings plans and sinking funds."
+  },
+  {
+   "verse": 4,
+   "start": 11.92,
+   "end": 15.77,
+   "text": "Use the present value annuity formula for loans and bonds.",
+   "segments": [
+    {
+     "start": 11.92,
+     "end": 15.77,
+     "text": "Use the present value annuity formula for loans and bonds."
+    }
+   ],
+   "spoken": "Use the present value annuity formula for loans and bonds."
+  },
+  {
+   "verse": 5,
+   "start": 16.47,
+   "end": 20.74,
+   "text": "Calculate outstanding balances and the effect of extra or missed payments.",
+   "segments": [
+    {
+     "start": 16.47,
+     "end": 20.74,
+     "text": "Calculate outstanding balances and the effect of extra or missed payments."
+    }
+   ],
+   "spoken": "Calculate outstanding balances and the effect of extra or missed payments."
+  },
+  {
+   "verse": 6,
+   "start": 21.44,
+   "end": 24.02,
+   "text": "Use logarithms to find the number of payments.",
+   "segments": [
+    {
+     "start": 21.44,
+     "end": 24.02,
+     "text": "Use logarithms to find the number of payments."
+    }
+   ],
+   "spoken": "Use logarithms to find the number of payments."
+  },
+  {
+   "verse": 7,
+   "start": 24.72,
+   "end": 25.55,
+   "text": "Key terms.",
+   "segments": [
+    {
+     "start": 24.72,
+     "end": 25.55,
+     "text": "Key terms."
+    }
+   ],
+   "spoken": "Key terms."
+  },
+  {
+   "verse": 8,
+   "start": 26.25,
+   "end": 30.48,
+   "text": "Annuity: A series of equal payments at equal time intervals.",
+   "segments": [
+    {
+     "start": 26.25,
+     "end": 30.48,
+     "text": "Annuity: A series of equal payments at equal time intervals."
+    }
+   ],
+   "spoken": "Annuity: A series of equal payments at equal time intervals."
+  },
+  {
+   "verse": 9,
+   "start": 31.18,
+   "end": 36.28,
+   "text": "Future value (F): The total value of all payments plus interest at the end.",
+   "segments": [
+    {
+     "start": 31.18,
+     "end": 36.28,
+     "text": "Future value, F: The total value of all payments plus interest at the end."
+    }
+   ],
+   "spoken": "Future value, F: The total value of all payments plus interest at the end."
+  },
+  {
+   "verse": 10,
+   "start": 36.98,
+   "end": 42.34,
+   "text": "Present value (P): The value now of all future payments (e.g. a loan amount).",
+   "segments": [
+    {
+     "start": 36.98,
+     "end": 42.34,
+     "text": "Present value, P: The value now of all future payments, for example a loan amount."
+    }
+   ],
+   "spoken": "Present value, P: The value now of all future payments, for example a loan amount."
+  },
+  {
+   "verse": 11,
+   "start": 43.04,
+   "end": 47.36,
+   "text": "Sinking fund: Savings set aside to replace an asset in the future.",
+   "segments": [
+    {
+     "start": 43.04,
+     "end": 47.36,
+     "text": "Sinking fund: Savings set aside to replace an asset in the future."
+    }
+   ],
+   "spoken": "Sinking fund: Savings set aside to replace an asset in the future."
+  },
+  {
+   "verse": 12,
+   "start": 48.06,
+   "end": 52.66,
+   "text": "Outstanding balance: The amount still owed on a loan at a given time.",
+   "segments": [
+    {
+     "start": 48.06,
+     "end": 52.66,
+     "text": "Outstanding balance: The amount still owed on a loan at a given time."
+    }
+   ],
+   "spoken": "Outstanding balance: The amount still owed on a loan at a given time."
+  },
+  {
+   "verse": 13,
+   "start": 53.36,
+   "end": 55.43,
+   "text": "Future value annuities.",
+   "segments": [
+    {
+     "start": 53.36,
+     "end": 55.43,
+     "text": "Future value annuities."
+    }
+   ],
+   "spoken": "Future value annuities."
+  },
+  {
+   "verse": 14,
+   "start": 56.13,
+   "end": 63.91,
+   "text": "F = x[(1 + i)ⁿ − 1]/i",
+   "segments": [
+    {
+     "start": 56.13,
+     "end": 63.91,
+     "text": "F equals x open bracket open bracket one plus i close bracket to the power n minus one close bracket divided by i."
+    }
+   ],
+   "spoken": "F equals x open bracket open bracket one plus i close bracket to the power n minus one close bracket divided by i."
+  },
+  {
+   "verse": 15,
+   "start": 64.61,
+   "end": 72.4,
+   "text": "x = payment per period, i = rate per period, n = number of payments (payments at the end of each period).",
+   "segments": [
+    {
+     "start": 64.61,
+     "end": 72.4,
+     "text": "x equals payment per period, i equals rate per period, n equals number of payments, payments at the end of each period."
+    }
+   ],
+   "spoken": "x equals payment per period, i equals rate per period, n equals number of payments, payments at the end of each period."
+  },
+  {
+   "verse": 16,
+   "start": 73.1,
+   "end": 80.86,
+   "text": "Thandi saves R1 200 at the end of each month for 4 years at 9% p.a. compounded monthly.",
+   "segments": [
+    {
+     "start": 73.1,
+     "end": 80.86,
+     "text": "Thandi saves one thousand two hundred rand at the end of each month for four years at nine percent per annum compounded monthly."
+    }
+   ],
+   "spoken": "Thandi saves one thousand two hundred rand at the end of each month for four years at nine percent per annum compounded monthly."
+  },
+  {
+   "verse": 17,
+   "start": 81.56,
+   "end": 108.75,
+   "text": "i = 0,09/12 = 0,0075, n = 48: F = 1 200[(1,0075)⁴⁸ − 1]/0,0075 = R69 024,85.",
+   "segments": [
+    {
+     "start": 81.56,
+     "end": 89.67,
+     "text": "i equals zero comma zero nine divided by twelve equals zero comma zero zero seven five, n equals forty-eight:"
+    },
+    {
+     "start": 89.85,
+     "end": 104.73,
+     "text": "F equals one thousand two hundred open bracket open bracket one comma zero zero seven five close bracket to the power forty-eight minus one close bracket divided by zero comma zero zero seven five equals sixty-nine"
+    },
+    {
+     "start": 104.91,
+     "end": 105.59,
+     "text": "thousand"
+    },
+    {
+     "start": 105.77,
+     "end": 108.75,
+     "text": "and twenty-four rand and eighty-five cents."
+    }
+   ],
+   "spoken": "i equals zero comma zero nine divided by twelve equals zero comma zero zero seven five, n equals forty-eight: F equals one thousand two hundred open bracket open bracket one comma zero zero seven five close bracket to the power forty-eight minus one close bracket divided by zero comma zero zero seven five equals sixty-nine thousand and twenty-four rand and eighty-five cents."
+  },
+  {
+   "verse": 18,
+   "start": 109.45,
+   "end": 111.19,
+   "text": "Present value annuities.",
+   "segments": [
+    {
+     "start": 109.45,
+     "end": 111.19,
+     "text": "Present value annuities."
+    }
+   ],
+   "spoken": "Present value annuities."
+  },
+  {
+   "verse": 19,
+   "start": 111.89,
+   "end": 121.35,
+   "text": "P = x[1 − (1 + i)⁻ⁿ]/i",
+   "segments": [
+    {
+     "start": 111.89,
+     "end": 121.35,
+     "text": "P equals x open bracket one minus open bracket one plus i close bracket to the power negative n close bracket divided by i."
+    }
+   ],
+   "spoken": "P equals x open bracket one minus open bracket one plus i close bracket to the power negative n close bracket divided by i."
+  },
+  {
+   "verse": 20,
+   "start": 122.05,
+   "end": 130.2,
+   "text": "A car loan of R250 000 at 12% p.a. compounded monthly over 5 years. Find the monthly payment.",
+   "segments": [
+    {
+     "start": 122.05,
+     "end": 130.2,
+     "text": "A car loan of two hundred and fifty thousand rand at twelve percent per annum compounded monthly over five years. Find the monthly payment."
+    }
+   ],
+   "spoken": "A car loan of two hundred and fifty thousand rand at twelve percent per annum compounded monthly over five years. Find the monthly payment."
+  },
+  {
+   "verse": 21,
+   "start": 130.9,
+   "end": 153.26,
+   "text": "i = 0,01, n = 60: x = 250 000 × 0,01/[1 − (1,01)⁻⁶⁰] ≈ R5 561,11.",
+   "segments": [
+    {
+     "start": 130.9,
+     "end": 134.36,
+     "text": "i equals zero comma zero one, n equals sixty:"
+    },
+    {
+     "start": 134.54,
+     "end": 136.21,
+     "text": "x equals two hundred"
+    },
+    {
+     "start": 136.39,
+     "end": 150.53,
+     "text": "and fifty thousand times zero comma zero one divided by open bracket one minus open bracket one comma zero one close bracket to the power negative sixty close bracket is approximately five thousand five hundred"
+    },
+    {
+     "start": 150.71,
+     "end": 153.26,
+     "text": "and sixty-one rand and eleven cents."
+    }
+   ],
+   "spoken": "i equals zero comma zero one, n equals sixty: x equals two hundred and fifty thousand times zero comma zero one divided by open bracket one minus open bracket one comma zero one close bracket to the power negative sixty close bracket is approximately five thousand five hundred and sixty-one rand and eleven cents."
+  },
+  {
+   "verse": 22,
+   "start": 153.96,
+   "end": 169.84,
+   "text": "Total repaid: 60 × 5 561,11 = R333 666,60, so the interest is about R83 666,60.",
+   "segments": [
+    {
+     "start": 153.96,
+     "end": 164.11,
+     "text": "Total repaid: sixty times five thousand five hundred and sixty-one comma one one equals three hundred and thirty-three thousand six hundred and sixty-six rand and sixty cents,"
+    },
+    {
+     "start": 164.29,
+     "end": 169.84,
+     "text": "so the interest is about eighty-three thousand six hundred and sixty-six rand and sixty cents."
+    }
+   ],
+   "spoken": "Total repaid: sixty times five thousand five hundred and sixty-one comma one one equals three hundred and thirty-three thousand six hundred and sixty-six rand and sixty cents, so the interest is about eighty-three thousand six hundred and sixty-six rand and sixty cents."
+  },
+  {
+   "verse": 23,
+   "start": 170.54,
+   "end": 171.96,
+   "text": "Outstanding balance.",
+   "segments": [
+    {
+     "start": 170.54,
+     "end": 171.96,
+     "text": "Outstanding balance."
+    }
+   ],
+   "spoken": "Outstanding balance."
+  },
+  {
+   "verse": 24,
+   "start": 172.66,
+   "end": 175.6,
+   "text": "Method: present value of the remaining payments.",
+   "segments": [
+    {
+     "start": 172.66,
+     "end": 175.6,
+     "text": "Method: present value of the remaining payments."
+    }
+   ],
+   "spoken": "Method: present value of the remaining payments."
+  },
+  {
+   "verse": 25,
+   "start": 176.3,
+   "end": 181.73,
+   "text": "For the car loan after 2 years (24 payments made, 36 left):",
+   "segments": [
+    {
+     "start": 176.3,
+     "end": 181.73,
+     "text": "For the car loan after two years, twenty-four payments made, thirty-six left:"
+    }
+   ],
+   "spoken": "For the car loan after two years, twenty-four payments made, thirty-six left:"
+  },
+  {
+   "verse": 26,
+   "start": 182.43,
+   "end": 206.1,
+   "text": "Balance = 5 561,11[1 − (1,01)⁻³⁶]/0,01 ≈ R167 431,21 (using the unrounded payment).",
+   "segments": [
+    {
+     "start": 182.43,
+     "end": 184.9,
+     "text": "Balance equals five thousand five hundred"
+    },
+    {
+     "start": 185.08,
+     "end": 199.03,
+     "text": "and sixty-one comma one one open bracket one minus open bracket one comma zero one close bracket to the power negative thirty-six close bracket divided by zero comma zero one is approximately one hundred"
+    },
+    {
+     "start": 199.21,
+     "end": 204.13,
+     "text": "and sixty-seven thousand four hundred and thirty-one rand and twenty-one cents,"
+    },
+    {
+     "start": 204.31,
+     "end": 206.1,
+     "text": "using the unrounded payment."
+    }
+   ],
+   "spoken": "Balance equals five thousand five hundred and sixty-one comma one one open bracket one minus open bracket one comma zero one close bracket to the power negative thirty-six close bracket divided by zero comma zero one is approximately one hundred and sixty-seven thousand four hundred and thirty-one rand and twenty-one cents, using the unrounded payment."
+  },
+  {
+   "verse": 27,
+   "start": 206.8,
+   "end": 213.59,
+   "text": "(Alternative: grow the loan forward and subtract the future value of the payments made – it gives the same answer.)",
+   "segments": [
+    {
+     "start": 206.8,
+     "end": 213.59,
+     "text": "Alternative: grow the loan forward and subtract the future value of the payments made, it gives the same answer."
+    }
+   ],
+   "spoken": "Alternative: grow the loan forward and subtract the future value of the payments made, it gives the same answer."
+  },
+  {
+   "verse": 28,
+   "start": 214.29,
+   "end": 215.48,
+   "text": "Sinking funds.",
+   "segments": [
+    {
+     "start": 214.29,
+     "end": 215.48,
+     "text": "Sinking funds."
+    }
+   ],
+   "spoken": "Sinking funds."
+  },
+  {
+   "verse": 29,
+   "start": 216.18,
+   "end": 220.54,
+   "text": "Find the future cost of the new asset (inflation or compound growth).",
+   "segments": [
+    {
+     "start": 216.18,
+     "end": 220.54,
+     "text": "Find the future cost of the new asset, inflation or compound growth."
+    }
+   ],
+   "spoken": "Find the future cost of the new asset, inflation or compound growth."
+  },
+  {
+   "verse": 30,
+   "start": 221.24,
+   "end": 224.73,
+   "text": "Find the scrap value of the old asset (depreciation).",
+   "segments": [
+    {
+     "start": 221.24,
+     "end": 224.73,
+     "text": "Find the scrap value of the old asset, depreciation."
+    }
+   ],
+   "spoken": "Find the scrap value of the old asset, depreciation."
+  },
+  {
+   "verse": 31,
+   "start": 225.43,
+   "end": 228.81,
+   "text": "Sinking fund = future cost − scrap value.",
+   "segments": [
+    {
+     "start": 225.43,
+     "end": 228.81,
+     "text": "Sinking fund equals future cost minus scrap value."
+    }
+   ],
+   "spoken": "Sinking fund equals future cost minus scrap value."
+  },
+  {
+   "verse": 32,
+   "start": 229.51,
+   "end": 233.38,
+   "text": "Use the future value formula to find the monthly payment x.",
+   "segments": [
+    {
+     "start": 229.51,
+     "end": 233.38,
+     "text": "Use the future value formula to find the monthly payment x."
+    }
+   ],
+   "spoken": "Use the future value formula to find the monthly payment x."
+  },
+  {
+   "verse": 33,
+   "start": 234.08,
+   "end": 235.24,
+   "text": "Finding n.",
+   "segments": [
+    {
+     "start": 234.08,
+     "end": 235.24,
+     "text": "Finding n."
+    }
+   ],
+   "spoken": "Finding n."
+  },
+  {
+   "verse": 34,
+   "start": 235.94,
+   "end": 246.83,
+   "text": "Solve for n with logs. A R500 000 bond at 10,5% p.a. compounded monthly is repaid at R6 000 per month.",
+   "segments": [
+    {
+     "start": 235.94,
+     "end": 246.83,
+     "text": "Solve for n with logs. A five hundred thousand rand bond at ten comma five percent per annum compounded monthly is repaid at six thousand rand per month."
+    }
+   ],
+   "spoken": "Solve for n with logs. A five hundred thousand rand bond at ten comma five percent per annum compounded monthly is repaid at six thousand rand per month."
+  },
+  {
+   "verse": 35,
+   "start": 247.53,
+   "end": 269.19,
+   "text": "i = 0,105/12 = 0,00875: 500 000 = 6 000[1 − (1,00875)⁻ⁿ]/0,00875",
+   "segments": [
+    {
+     "start": 247.53,
+     "end": 254.09,
+     "text": "i equals zero comma one zero five divided by twelve equals zero comma zero zero eight seven five:"
+    },
+    {
+     "start": 254.27,
+     "end": 269.19,
+     "text": "five hundred thousand equals six thousand open bracket one minus open bracket one comma zero zero eight seven five close bracket to the power negative n close bracket divided by zero comma zero zero eight seven five."
+    }
+   ],
+   "spoken": "i equals zero comma one zero five divided by twelve equals zero comma zero zero eight seven five: five hundred thousand equals six thousand open bracket one minus open bracket one comma zero zero eight seven five close bracket to the power negative n close bracket divided by zero comma zero zero eight seven five."
+  },
+  {
+   "verse": 36,
+   "start": 269.89,
+   "end": 289.27,
+   "text": "→ (1,00875)⁻ⁿ = 1 − 500 000 × 0,00875/6 000 ≈ 0,27083",
+   "segments": [
+    {
+     "start": 269.89,
+     "end": 270.36,
+     "text": "So,"
+    },
+    {
+     "start": 270.54,
+     "end": 286.79,
+     "text": "open bracket one comma zero zero eight seven five close bracket to the power negative n equals one minus five hundred thousand times zero comma zero zero eight seven five divided by six thousand is approximately zero"
+    },
+    {
+     "start": 286.97,
+     "end": 289.27,
+     "text": "comma two seven zero eight three."
+    }
+   ],
+   "spoken": "So, open bracket one comma zero zero eight seven five close bracket to the power negative n equals one minus five hundred thousand times zero comma zero zero eight seven five divided by six thousand is approximately zero comma two seven zero eight three."
+  },
+  {
+   "verse": 37,
+   "start": 289.97,
+   "end": 310.45,
+   "text": "→ n = −log 0,27083/log 1,00875 ≈ 149,9, so 149 full payments and a smaller final 150th payment.",
+   "segments": [
+    {
+     "start": 289.97,
+     "end": 304.67,
+     "text": "So, n equals minus log zero comma two seven zero eight three divided by log one comma zero zero eight seven five is approximately one hundred and forty-nine comma nine,"
+    },
+    {
+     "start": 304.85,
+     "end": 310.45,
+     "text": "so one hundred and forty-nine full payments and a smaller final one hundred and fiftieth payment."
+    }
+   ],
+   "spoken": "So, n equals minus log zero comma two seven zero eight three divided by log one comma zero zero eight seven five is approximately one hundred and forty-nine comma nine, so one hundred and forty-nine full payments and a smaller final one hundred and fiftieth payment."
+  },
+  {
+   "verse": 38,
+   "start": 311.15,
+   "end": 312.7,
+   "text": "Choosing the right formula.",
+   "segments": [
+    {
+     "start": 311.15,
+     "end": 312.7,
+     "text": "Choosing the right formula."
+    }
+   ],
+   "spoken": "Choosing the right formula."
+  },
+  {
+   "verse": 39,
+   "start": 313.4,
+   "end": 317.29,
+   "text": "Saving towards a goal, value at the end: Future value.",
+   "segments": [
+    {
+     "start": 313.4,
+     "end": 317.29,
+     "text": "Saving towards a goal, value at the end: Future value."
+    }
+   ],
+   "spoken": "Saving towards a goal, value at the end: Future value."
+  },
+  {
+   "verse": 40,
+   "start": 317.99,
+   "end": 321.43,
+   "text": "Loan, bond, value today: Present value.",
+   "segments": [
+    {
+     "start": 317.99,
+     "end": 321.43,
+     "text": "Loan, bond, value today: Present value."
+    }
+   ],
+   "spoken": "Loan, bond, value today: Present value."
+  },
+  {
+   "verse": 41,
+   "start": 322.13,
+   "end": 328.1,
+   "text": "Single amount growing: A = P(1 + i)ⁿ.",
+   "segments": [
+    {
+     "start": 322.13,
+     "end": 328.1,
+     "text": "Single amount growing: A equals P open bracket one plus i close bracket to the power n."
+    }
+   ],
+   "spoken": "Single amount growing: A equals P open bracket one plus i close bracket to the power n."
+  },
+  {
+   "verse": 42,
+   "start": 328.8,
+   "end": 329.81,
+   "text": "Exam tips.",
+   "segments": [
+    {
+     "start": 328.8,
+     "end": 329.81,
+     "text": "Exam tips."
+    }
+   ],
+   "spoken": "Exam tips."
+  },
+  {
+   "verse": 43,
+   "start": 330.51,
+   "end": 338.77,
+   "text": "Finance is 15–20 marks of Paper 1. Write the formula, the values of x, i and n, then substitute.",
+   "segments": [
+    {
+     "start": 330.51,
+     "end": 333.6,
+     "text": "Finance is fifteen to twenty marks of Paper one."
+    },
+    {
+     "start": 333.95,
+     "end": 338.77,
+     "text": "Write the formula, the values of x, i and n, then substitute."
+    }
+   ],
+   "spoken": "Finance is fifteen to twenty marks of Paper one. Write the formula, the values of x, i and n, then substitute."
+  },
+  {
+   "verse": 44,
+   "start": 339.47,
+   "end": 346.06,
+   "text": "Watch for payments starting one month after the loan is granted (standard) versus \"immediately\" (an extra payment).",
+   "segments": [
+    {
+     "start": 339.47,
+     "end": 346.06,
+     "text": "Watch for payments starting one month after the loan is granted, standard, versus \"immediately\", an extra payment."
+    }
+   ],
+   "spoken": "Watch for payments starting one month after the loan is granted, standard, versus \"immediately\", an extra payment."
+  },
+  {
+   "verse": 45,
+   "start": 346.76,
+   "end": 350.68,
+   "text": "Use the full calculator value; round money only at the end.",
+   "segments": [
+    {
+     "start": 346.76,
+     "end": 350.68,
+     "text": "Use the full calculator value; round money only at the end."
+    }
+   ],
+   "spoken": "Use the full calculator value; round money only at the end."
+  },
+  {
+   "verse": 46,
+   "start": 351.38,
+   "end": 352.48,
+   "text": "Common mistakes.",
+   "segments": [
+    {
+     "start": 351.38,
+     "end": 352.48,
+     "text": "Common mistakes."
+    }
+   ],
+   "spoken": "Common mistakes."
+  },
+  {
+   "verse": 47,
+   "start": 353.18,
+   "end": 360.41,
+   "text": "Using the annual rate instead of the monthly rate (i/12) and years instead of months.",
+   "segments": [
+    {
+     "start": 353.18,
+     "end": 360.41,
+     "text": "Using the annual rate instead of the monthly rate open bracket i divided by twelve close bracket and years instead of months."
+    }
+   ],
+   "spoken": "Using the annual rate instead of the monthly rate open bracket i divided by twelve close bracket and years instead of months."
+  },
+  {
+   "verse": 48,
+   "start": 361.11,
+   "end": 363.63,
+   "text": "Using the future value formula for a loan.",
+   "segments": [
+    {
+     "start": 361.11,
+     "end": 363.63,
+     "text": "Using the future value formula for a loan."
+    }
+   ],
+   "spoken": "Using the future value formula for a loan."
+  },
+  {
+   "verse": 49,
+   "start": 364.33,
+   "end": 368.05,
+   "text": "Forgetting to subtract the deposit before calculating the loan amount.",
+   "segments": [
+    {
+     "start": 364.33,
+     "end": 368.05,
+     "text": "Forgetting to subtract the deposit before calculating the loan amount."
+    }
+   ],
+   "spoken": "Forgetting to subtract the deposit before calculating the loan amount."
+  },
+  {
+   "verse": 50,
+   "start": 368.75,
+   "end": 373.63,
+   "text": "Writing n as a decimal number of payments without explaining the final smaller payment.",
+   "segments": [
+    {
+     "start": 368.75,
+     "end": 373.63,
+     "text": "Writing n as a decimal number of payments without explaining the final smaller payment."
+    }
+   ],
+   "spoken": "Writing n as a decimal number of payments without explaining the final smaller payment."
+  },
+  {
+   "verse": 51,
+   "start": 374.33,
+   "end": 375.15,
+   "text": "Summary.",
+   "segments": [
+    {
+     "start": 374.33,
+     "end": 375.15,
+     "text": "Summary."
+    }
+   ],
+   "spoken": "Summary."
+  },
+  {
+   "verse": 52,
+   "start": 375.85,
+   "end": 387.39,
+   "text": "Future value annuity: F = x[(1 + i)ⁿ − 1]/i for savings.",
+   "segments": [
+    {
+     "start": 375.85,
+     "end": 387.39,
+     "text": "Future value annuity: F equals x open bracket open bracket one plus i close bracket to the power n minus one close bracket divided by i for savings."
+    }
+   ],
+   "spoken": "Future value annuity: F equals x open bracket open bracket one plus i close bracket to the power n minus one close bracket divided by i for savings."
+  },
+  {
+   "verse": 53,
+   "start": 388.09,
+   "end": 399.5,
+   "text": "Present value annuity: P = x[1 − (1 + i)⁻ⁿ]/i for loans.",
+   "segments": [
+    {
+     "start": 388.09,
+     "end": 399.5,
+     "text": "Present value annuity: P equals x open bracket one minus open bracket one plus i close bracket to the power negative n close bracket divided by i for loans."
+    }
+   ],
+   "spoken": "Present value annuity: P equals x open bracket one minus open bracket one plus i close bracket to the power negative n close bracket divided by i for loans."
+  },
+  {
+   "verse": 54,
+   "start": 400.2,
+   "end": 403.96,
+   "text": "Outstanding balance = present value of the remaining payments.",
+   "segments": [
+    {
+     "start": 400.2,
+     "end": 403.96,
+     "text": "Outstanding balance equals present value of the remaining payments."
+    }
+   ],
+   "spoken": "Outstanding balance equals present value of the remaining payments."
+  },
+  {
+   "verse": 55,
+   "start": 404.66,
+   "end": 410.05,
+   "text": "Sinking fund = future cost − scrap value, then use the future value formula.",
+   "segments": [
+    {
+     "start": 404.66,
+     "end": 410.05,
+     "text": "Sinking fund equals future cost minus scrap value, then use the future value formula."
+    }
+   ],
+   "spoken": "Sinking fund equals future cost minus scrap value, then use the future value formula."
+  },
+  {
+   "verse": 56,
+   "start": 410.75,
+   "end": 414.33,
+   "text": "Use logs to find n; interpret the final smaller payment.",
+   "segments": [
+    {
+     "start": 410.75,
+     "end": 414.33,
+     "text": "Use logs to find n; interpret the final smaller payment."
+    }
+   ],
+   "spoken": "Use logs to find n; interpret the final smaller payment."
+  }
+ ]
+}
